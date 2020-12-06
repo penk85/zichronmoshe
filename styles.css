@@ -1,0 +1,65 @@
+body{
+    background-color: #EAEFD3;
+    text-align: center;
+}
+.header {
+    background-color: #001520;
+    background: url(media/shul.jpg) no-repeat center fixed;
+    background-size: cover;
+    color: #001520;
+    text-align: center;
+    height: 50vh;
+    border-bottom: 6px solid #5A6650;
+}
+
+h1 {
+    width: 100vw;
+    text-shadow: 1px 1px 1px #EAEFD3;
+    opacity: 0.7;
+}
+
+h2 {
+    width: 100vw;
+    text-shadow: 1px 1px 1px #EAEFD3;
+    opacity: 0.7;
+}
+
+
+
+i {
+    font-size: 4vw;
+    padding: 0.5em;
+    color:  #5A6650;
+}
+
+.bottom-menu p {
+    font-size: 0.8em;
+    color:  #5A6650;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    transition: width 2s, height 4s;
+    opacity: 0.9;
+    text-shadow: 0px 1px 1px #5A6640;
+
+}
+
+.logo {
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    background-color: white;
+    outline: thick ridge black;
+    margin: 16px;
+    padding: 16px;
+}
+li {
+    margin: 10px;
+}
